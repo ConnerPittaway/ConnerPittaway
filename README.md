@@ -1,7 +1,7 @@
 ## Hi there 👋, My Name is Conner, thanks for stopping by and welcome to my Github!
 ### I am currently in my final year at Staffordshire University in my fourth year after spending my third year at Airbus Helicopters in Donauworth, Germany.
 ##
-I primarily program using C++ but I am also well versed with C and C#. A collection of my projects can be found here on my Github but I am also actively working and researching things in my spare time. 
+I primarily program using C++ but I am also well versed with C and C#. A collection of my projects can be found here on my Github but I am also actively working on and researching things in my spare time. 
 
 If you want to get in touch please follow me at: https://twitter.com/PittawayConner or https://www.linkedin.com/in/conner-pittaway-78b973195/ and send a message! I'm very quick to respond so if there's anything you want to ask please do.
 
